@@ -100,10 +100,8 @@ CREATE TABLE `sleep_record` (
 3. 时区统一使用GMT+8
 4. 建议每年导入一次数据
 
-## 作者
-
-[Your Name]
-
 ## 许可证
 
-MIT License 
+MIT License
+
+本项目采用 MIT 许可证。查看 [LICENSE](LICENSE) 文件了解更多信息。 
