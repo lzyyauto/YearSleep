@@ -1,4 +1,4 @@
-# git remote add origin git@github.com:lzyyauto/YearSleep.git
+# YearSleep
 
 这是一个用于分析个人睡眠数据的Python项目,可以处理和分析来自CSV文件的睡眠记录,生成统计报告。
 
